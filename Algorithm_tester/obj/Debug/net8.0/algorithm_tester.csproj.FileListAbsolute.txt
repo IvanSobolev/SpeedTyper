@@ -1,0 +1,15 @@
+D:\KOD\SpeedTyper\algorithm_tester\bin\Debug\net8.0\algorithm_tester.exe
+D:\KOD\SpeedTyper\algorithm_tester\bin\Debug\net8.0\algorithm_tester.deps.json
+D:\KOD\SpeedTyper\algorithm_tester\bin\Debug\net8.0\algorithm_tester.runtimeconfig.json
+D:\KOD\SpeedTyper\algorithm_tester\bin\Debug\net8.0\algorithm_tester.dll
+D:\KOD\SpeedTyper\algorithm_tester\bin\Debug\net8.0\algorithm_tester.pdb
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.AssemblyInfoInputs.cache
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.AssemblyInfo.cs
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.csproj.CoreCompileInputs.cache
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.sourcelink.json
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.dll
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\refint\algorithm_tester.dll
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.pdb
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\algorithm_tester.genruntimeconfig.cache
+D:\KOD\SpeedTyper\algorithm_tester\obj\Debug\net8.0\ref\algorithm_tester.dll
