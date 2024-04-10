@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KOD\\SpeedTyper\\algorithm_tester\\algorithm_tester.csproj": {}
+    "D:\\KOD\\SpeedTyper\\Algorithm_tester\\algorithm_tester.csproj": {}
   },
   "projects": {
-    "D:\\KOD\\SpeedTyper\\algorithm_tester\\algorithm_tester.csproj": {
+    "D:\\KOD\\SpeedTyper\\Algorithm_tester\\algorithm_tester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KOD\\SpeedTyper\\algorithm_tester\\algorithm_tester.csproj",
+        "projectUniqueName": "D:\\KOD\\SpeedTyper\\Algorithm_tester\\algorithm_tester.csproj",
         "projectName": "algorithm_tester",
-        "projectPath": "D:\\KOD\\SpeedTyper\\algorithm_tester\\algorithm_tester.csproj",
+        "projectPath": "D:\\KOD\\SpeedTyper\\Algorithm_tester\\algorithm_tester.csproj",
         "packagesPath": "C:\\Users\\bezli\\.nuget\\packages\\",
-        "outputPath": "D:\\KOD\\SpeedTyper\\algorithm_tester\\obj\\",
+        "outputPath": "D:\\KOD\\SpeedTyper\\Algorithm_tester\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bezli\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = algorithm_tester
-build_property.ProjectDir = D:\KOD\SpeedTyper\algorithm_tester\
+build_property.ProjectDir = D:\KOD\SpeedTyper\Algorithm_tester\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
